@@ -15,7 +15,7 @@ class MyEventInfo {
 	var streamCompleted = false
 
 	// Pointer
-	// Raw pointer count
+	// Raw pointer count (include primary pointer)
 	var pointerCount = 0
 	var skipPointerIndex = 0
 
